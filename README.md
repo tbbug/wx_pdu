@@ -23,3 +23,10 @@ npm install
 
 npm run build:weapp
 
+效果截图
+
+![](https://raw.githubusercontent.com/tbbug/wx_pdu/main/img/截图.jpg)
+
+
+
+
