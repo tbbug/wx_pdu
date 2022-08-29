@@ -28,5 +28,3 @@ npm run build:weapp
 ![](https://raw.githubusercontent.com/tbbug/wx_pdu/main/img/截图.jpg)
 
 
-
-
