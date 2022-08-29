@@ -23,5 +23,5 @@ npm install
 
 npm run build:weapp
 
-![](https://raw.githubusercontent.com/tbbug/wx_pdu/main/img/pv1.jpeg)  ![](https://raw.githubusercontent.com/tbbug/wx_pdu/main/img/pv2.jpeg)  ![](https://raw.githubusercontent.com/tbbug/wx_pdu/main/img/pv3.jpeg)
+[](https://raw.githubusercontent.com/tbbug/wx_pdu/main/img/pv1.jpeg)  [](https://raw.githubusercontent.com/tbbug/wx_pdu/main/img/pv2.jpeg)  [](https://raw.githubusercontent.com/tbbug/wx_pdu/main/img/pv3.jpeg)
 
